@@ -1,5 +1,4 @@
 from datetime import timedelta
-from collections import OrderedDict
 
 from rest_framework import status
 from rest_framework.decorators import api_view, permission_classes
